@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
+  <img src="" width="100%" alt="Banner">
 </div>
-<h3>ABOUT ME</h3>
-I'm a versatile developer, with experience in building web platforms.<br>I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me.
-<h3>EXPERIENCE</h3>
-I've experience working in a private company and as a freelancer.
-I've spent most of my time as a developer with the following stacks:
+<h3>Sobre mi</h3>
+Soy experto en Inteligencia Artificial y Ciencia de Datos con aplicaciónes en el área de finanzas, procesamiento de lenguaje natural e inteligencia de negocios, además tengo experiencia en manejo de bases de datos e inteligencia de negocios. Tengo una formación matemática de alto nivel que me permite adquirir métodos de razonamiento avanzados y una ética de trabajo rigurosa. Entre mis habilidades destaco con los números, las cuentas, el análisis y todo lo similar.
+También soy un desarrollador versátil, con experiencia en la construcción de plataformas web. Me gusta la accesibilidad, el rendimiento y el código robusto. Además, también me gusta ayudar y comunicar todo lo que pueda.
+
+<h3>Expereriencia</h3>
+Tengo experiencia en el desarrolo de aplicaciones web en diferentes software estadisticos como R studio (Shiny) y Python (Flask) y (Django). Ademas, de la manipulacion de bases de datos en Sql Server.
+
+He pasado la mayor parte de mi tiempo como desarrollador con las siguientes programas:
+
 - <img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Django -- Celery -- Heroku-grey" alt="Django, Celery and Heroku">
 - <img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Frappe -- MariaDB -- Docker-grey" alt="Frappe, MariaDB and Docker">
 - <img src="https://img.shields.io/badge/TypeScript      |    SCSS-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-Next.js (React) -- Tailwind CSS-grey" alt="Next.js (React) and Tailwind CSS">
