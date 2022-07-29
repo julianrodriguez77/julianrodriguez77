@@ -2,7 +2,8 @@
 <div align="center">
   <img src="" width="100%" alt="Banner">
 </div> -->
-**Soy Julián Rodríguez**
+<h1>Soy Julián Rodríguez</h1>
+<h2>Ingeniéro Matemático </h2>
 <h3>Sobre mi</h3>
 Soy experto en Inteligencia Artificial y Ciencia de Datos con aplicaciónes en el área de finanzas, procesamiento de lenguaje natural e inteligencia de negocios, además tengo experiencia en manejo de bases de datos e inteligencia de negocios. Tengo una formación matemática de alto nivel que me permite adquirir métodos de razonamiento avanzados y una ética de trabajo rigurosa. Entre mis habilidades destaco con los números, las cuentas, el análisis y todo lo similar.
 También soy un desarrollador versátil, con experiencia en la construcción de plataformas web. Me gusta la accesibilidad, el rendimiento y el código robusto. Además, también me gusta ayudar y comunicar todo lo que pueda.
