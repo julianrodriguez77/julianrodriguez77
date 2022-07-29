@@ -19,7 +19,7 @@ He pasado la mayor parte de mi tiempo como desarrollador con las siguientes prog
 - <img src="https://img.shields.io/badge/HTML | CSS |PHP-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/--grey" alt="Next.js (React) and Tailwind CSS">
 - <img src="https://img.shields.io/badge/Excel-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/--grey" alt="Next.js (React) and Tailwind CSS">
 
-En terminos generales, tengo 3 años de experiencia en el ecosistema Python, R Studio, SQL y Power BI.
+En terminos generales, tengo 2 años de experiencia en el ecosistema Python, R Studio, SQL y Power BI.
 
 <h3>MY FRIEND</h3>
 has a message for you...
@@ -29,3 +29,7 @@ has a message for you...
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
 <br>
+</br>
+<p align="center">
+  <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+</div>
