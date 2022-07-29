@@ -15,7 +15,7 @@ He pasado la mayor parte de mi tiempo como desarrollador con las siguientes prog
 
 - <img src="https://img.shields.io/badge/Python-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Django -- Flask -- MariaDB-grey" alt="Django, Celery and Heroku">
 - <img src="https://img.shields.io/badge/R Studio -Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Shiny -- R Markdown- grey" alt="Django, Celery and Heroku">
-- <img src="https://img.shields.io/badge/Sql Server-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-HTML | CSS |PHP -- Tailwind CSS-grey" alt="Next.js (React) and Tailwind CSS">
+- <img src="https://img.shields.io/badge/SQL-Manipulación---white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-Sql Server-grey" alt="Next.js (React) and Tailwind CSS">
 - <img src="https://img.shields.io/badge/HTML | CSS |PHP-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/--grey" alt="Next.js (React) and Tailwind CSS">
 - <img src="https://img.shields.io/badge/Excel-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/--grey" alt="Next.js (React) and Tailwind CSS">
 
